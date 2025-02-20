@@ -1,7 +1,7 @@
 import React from 'react'
-import hero1 from '../assets/1.png'
-import hero2 from '../assets/2.png'
-import hero3 from '../assets/3.png'
+import hero1 from '../assets/1.webp'
+import hero2 from '../assets/2.webp'
+import hero3 from '../assets/3.webp'
 
 
 const Slideshow = () => {

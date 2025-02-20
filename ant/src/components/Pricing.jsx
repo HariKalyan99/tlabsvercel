@@ -81,15 +81,15 @@ const Pricing = () => {
             <th scope="row" className="text-start">Free Domain name</th>
             <td>1 Year free</td>
             <td>1 Year free</td>
-            <td>1 Year free</td>
+            <td>3 Year free</td>
           </tr>
         </tbody>
 
         <tbody>
           <tr>
             <th scope="row" className="text-start">Free Hosting</th>
-            <td>1 Year Free Hosting ( Unlimited Space )</td>
-            <td>1 Year Free Hosting ( Unlimited Space )</td>
+            <td>1 Year Free Hosting ( Limited Space )</td>
+            <td>1 Year Free Hosting ( Limited Space )</td>
             <td>1 Year Free Hosting ( Unlimited Space )</td>
           </tr>
           <tr>
@@ -100,19 +100,19 @@ const Pricing = () => {
           </tr>
           <tr>
             <th scope="row" className="text-start">Admin Access</th>
-            <td>Yes</td>
+            <td>No</td>
             <td>Yes</td>
             <td>Yes</td>
           </tr>
           <tr>
             <th scope="row" className="text-start">Lifetime 24/7 Free Hosting Support</th>
-            <td>Yes</td>
-            <td>Yes</td>
+            <td>No</td>
+            <td>No</td>
             <td>Yes</td>
           </tr>
           <tr>
             <th scope="row" className="text-start">Unlimited Images & Videos Upload</th>
-            <td>Yes</td>
+            <td>No</td>
             <td>Yes</td>
             <td>Yes</td>
           </tr>
@@ -124,9 +124,9 @@ const Pricing = () => {
           </tr>
           <tr>
             <th scope="row" className="text-start">Free Email Id</th>
-            <td>3</td>
-            <td>5</td>
-            <td>10</td>
+            <td>1</td>
+            <td>2</td>
+            <td>5-10</td>
           </tr>
           <tr>
             <th scope="row" className="text-start">SEO Friendly Website</th>
