@@ -11,7 +11,7 @@ const Pricing = () => {
             <h4 className="my-0 fw-normal">Standard Plan</h4>
           </div>
           <div className="card-body">
-            <h1 className="card-title pricing-card-title">₹ 7,999</h1>
+            <h1 className="card-title pricing-card-title">₹ 14,999</h1>
             <ul className="list-unstyled mt-3 mb-4">
               <li>Annual</li>
               <li>Renewal For</li>
@@ -28,7 +28,7 @@ const Pricing = () => {
             <h4 className="my-0 fw-normal">Premium Plan</h4>
           </div>
           <div className="card-body">
-            <h1 className="card-title pricing-card-title">₹ 13,999</h1>
+            <h1 className="card-title pricing-card-title">₹ 24,999</h1>
             <ul className="list-unstyled mt-3 mb-4">
               <li>Annual</li>
               <li>Renewal For</li>

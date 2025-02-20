@@ -113,7 +113,7 @@ const Dashboard = () => {
         <div className="col-md-5 d-flex justify-content-center">
           <div style={{ height: "300px", width: "300px", overflow: "hidden"}}>
             <img
-              src="https://textuar.com/wp-content/uploads/2023/07/seo-textuar.jpg"
+              src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg?semt=ais_hybrid"
               alt="cp"
               style={{ height: "300px", width: "300px", objectFit: "contain" }}
             />
@@ -148,7 +148,7 @@ const Dashboard = () => {
         <div className="col-md-5 order-md-1  d-flex justify-content-center">
           <div style={{ height: "300px", width: "300px", overflow: "hidden" }}>
             <img
-              src="https://media.licdn.com/dms/image/C4D12AQE4GJFi5O4UfA/article-cover_image-shrink_720_1280/0/1579510609621?e=2147483647&v=beta&t=IxknpdVoTzN_iJZs61YGTfbTB3xAdKJZCqvtJOyNC58"
+              src="https://img.freepik.com/premium-vector/learning-isolated-concept-vector-illustration_107173-63551.jpg"
               alt="cp"
               style={{ height: "300px", width: "300px", objectFit: "contain" }}
             />
@@ -176,9 +176,9 @@ const Dashboard = () => {
         <div className="col-md-5  d-flex justify-content-center">
           <div style={{ height: "300px", width: "300px", overflow: "hidden" }}>
             <img
-              src="https://textuar.com/wp-content/uploads/2023/07/content-writing-agency-mumbai.png"
+              src="https://img.freepik.com/free-vector/experts-concept-illustration_114360-451.jpg"
               alt="cp"
-              style={{ height: "300px", width: "300px", objectFit: "fill" }}
+              style={{ height: "300px", width: "300px", objectFit: "contain" }}
             />
           </div>
         </div>
